@@ -10,17 +10,17 @@
 */
 
 module.exports = {
-  session_folder_name: 'session',
   pairing_mode: true,
+  session_folder_name: 'session',
   browser: ["Chrome (Windows)", "latest"],
-  prefix: '.',
   public_mode: true,
+  prefix: '.',
   bot: {
-    name: 'Dani BOT',
-    profile_status: 'Bot aktif hingga kiamat or 24/7'
+    name: 'Bot Name',
+    profile_status: 'Bot Status'
   },
   owner: {
-    name: ["Dani Techno."],
-    number: ["6288296339947", "6289512545999"]
+    name: ["Owner Name"],
+    number: ["628xxx"]
   }
 };

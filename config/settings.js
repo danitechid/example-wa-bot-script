@@ -10,10 +10,9 @@
 */
 
 module.exports = {
-  session_folder_name: 'session',
   pairing_mode: true,
+  session_folder_name: 'session',
   browser: ["Chrome (Windows)", "latest"],
-  prefix: '.',
   mode: 'both', // Private, Group, Both/All
   public_mode: true,
   offline_status: false,
@@ -21,14 +20,15 @@ module.exports = {
   auto_read_messages: true,
   auto_typing: true,
   auto_recording: false,
+  prefix: '.',
   bot: {
-    name: 'Dani BOT',
-    profile_status: 'Bot aktif hingga kiamat or 24/7'
+    name: 'Bot Name',
+    profile_status: 'Bot Status'
   },
   owner: {
-    name: ["Dani Techno."],
-    number: ["6288296339947", "6289512545999"]
-  },
+    name: ["Owner Name"],
+    number: ["628xxx"]
+  }
   date: {
     country: 'id-ID',
     time_zone: 'Asia/Jakarta'
