@@ -79,4 +79,4 @@ bun run start
 
 ## Terimakasih Kepada
 * Dani Techno. - FullStack Engineer (Pembuat / Pengembang)
-* @danitech/whatsapp-api (Penyedia Library "WhatsApp API")
+* @danitech/wa-web-api (Penyedia Library "WhatsApp Web API")
